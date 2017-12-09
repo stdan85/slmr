@@ -23,7 +23,5 @@ public class Main {
         System.out.println(new Gson().toJson(prop));
 
     }
-
-
 }
 
